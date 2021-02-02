@@ -4,15 +4,51 @@
   "top2" : 37,
   "recent_episode": [
     
-    {
+ {
       "title": "Twice The Love",
       "status": "အပိုင်း(ဇာတ်သိမ်း)",
-      "tag": "",
       "cover": "https://1.bp.blogspot.com/-r2BreSFbjj8/X2DSZ9SZWNI/AAAAAAAAhxo/8b5SyGVLaJAQLokSivzgbusuwNYfyJRkwCLcBGAsYHQ/s0/Twice-the-Love-193x278.jpg",
       "image": "https://1.bp.blogspot.com/-covlZw35QT4/X2DR0qRJ09I/AAAAAAAAhxg/s_EFaCblxZI8ikaO5ext54CcH-7HtahiwCLcBGAsYHQ/s1600/Screenshot_20200915-210501_Chrome-picsay.jpg",
       "link": "https://raw.githubusercontent.com/Ggwp57/00880t/main/twice_the_love/",
       "vol": ""
-    }
+},
+{
+       "title" : "My Kingdom",
+       "status" : "အပိုင်း(၅၂)",
+       "cover" : "https://1.bp.blogspot.com/-H5HLy9NoIFA/Xs5YdQZklVI/AAAAAAAAMOo/XTZzQn0CRA8AmpbIHOmYC3ejXCVLJolwACLcBGAsYHQ/s320/001cover.jpg",
+       "image" : "https://1.bp.blogspot.com/-wypBtkdsJVk/Xs5SuLf1OII/AAAAAAAAL8Q/hJflA-MeYxQrwiCbqzFkm4mYGFKpR7SSQCK4BGAsYHg/s1600/IMG_20200527_181318.jpg",
+       "link" : "https://raw.githubusercontent.com/Ggwp57/00880t/main/my_kingdom/",
+       "vol" : "ကျောင်းတက်ရ ငြီးငွေ့နေတဲ့ ဟွန်းတစ်ယောက် မဖြစ်သင့်တဲ့သူတစ်ယောက်နဲ့ 
+       နီးကပ်တဲ့ဆက်ဆံရေးရရှိပြီးတဲ့နောက် သူမမျှော်လင့်ခဲ့တာတွေ ဖြစ်လာတဲ့အခါ 
+       ဟွန်းတစ်ယောက် ဘာတွေဆက်ဖြစ်လာသလဲ....... 
+       "
+},
+{
+       "title" : "Stepmother's Friends",
+       "status" : "အပိုင်း(၇)",
+       "cover" : "https://1.bp.blogspot.com/-Wa3c8PfjVHQ/X_cDfvhohKI/AAAAAAAADYc/aRACkjc-ZewA2Rklxlwr8mNIayDzCwLDgCLcBGAsYHQ/s0/por.jpg",
+       "image" : "https://1.bp.blogspot.com/-iA2aoQsuMQQ/X_cDf3j-g1I/AAAAAAAADYg/L5gcNR7j9vUV7QyfBF8EXl8UZ8dbz2DygCLcBGAsYHQ/s0/lomg.jpg",
+       "link" : "https://raw.githubusercontent.com/Ggwp57/00880t/main/StepMomFri/",
+       "vol" : ""
+},
+{
+       "title" : "The Giving Girl",
+       "status" : "အပိုင်း(၂၃)",
+       "cover" : "https://1.bp.blogspot.com/-46k6pgqWpJc/XtPWgrrFVII/AAAAAAAAM9w/ywsz8HJV0eMI_GJ7G1B0cjHQbF2UowkDQCLcBGAsYHQ/s200/001cover.jpg",
+       "image" : "https://1.bp.blogspot.com/-9O8Mj3Bs0ug/XtPVQpg2SpI/AAAAAAAAM9k/87d3yGFjW9oxtYuqiILgizoZktvk7vnagCLcBGAsYHQ/s1600/IMG_20200531_221949.jpg",
+       "link" : "https://raw.githubusercontent.com/Ggwp57/00880t/main/the_giving_girl/",
+       "vol" : ""
+},
+{
+       "title" : "လူဖျင်း",
+       "status" : "အပိုင်း(၆၅)",
+       "cover" : "https://4.bp.blogspot.com/-7eYwkjU7Hlc/W7zG6zlrk-I/AAAAAAAAOg8/ibN7RMWsqkEufrr-WrneE__wq8cGB8oawCLcBGAs/s400/0.jpg",
+       "image" : "https://1.bp.blogspot.com/-GTvM8tUpROo/XOAnTHmfQoI/AAAAAAAAXiA/jS2V5L6C5nUqWbuulZgTbNEPUbYA5mdCQCLcBGAs/s1000/0.jpg",
+       "link" : "https://raw.githubusercontent.com/Ggwp57/00880t/main/lu_phyin/",
+       "vol" : "မိန်းမက ကိုယ့်သူငယ်ချင်းလဲဖြစ် အထက်လူကြီးလဲဖြစ်သူနဲ့ဖောက်ပြန်...အလုပ်မှာရော အိမ်မှာပါ ဖိအားပေးခံရပြီး ကွာရှင်းဖို့အထိဖြစ်လာတဲ့အခါ...ကိုယ့်ကိုယ်ကိုယ် သတ်သေမလား ရုန်းထွက်မလား ကင်အီဆောင်း တစ်ယောက်ဘယ်လို ဆုံးဖြတ်မလဲဆိုတာ လှည့်ကွက်များစွာနဲ့ဖတ်ရှုရမယ့် Drama ဇာတ်လမ်း"
+       }
+
+
   ],
   
  "slider" : [
