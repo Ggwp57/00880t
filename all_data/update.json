@@ -2615,9 +2615,24 @@
        "cover" : "https://www.anime-planet.com/images/manga/covers/run-away-51282.jpg?t=1591239781",
        "image" : "https://1.bp.blogspot.com/-Id5WkIZnzpA/YLZaEVsJ73I/AAAAAAAAOps/CCZjl-XBwDMw46oLQgBCmt4GHcXhWmAGQCLcBGAsYHQ/s0/AAA.jpg",
        "link" : "https://raw.githubusercontent.com/Ggwp57/00880t/main/RunAway/",
-       "tag" : "",
        "vol" : "Naeyeon wandered in the forest, her memories lost. Dongcheol approached her, and she tried to raid Naeyeon. Naeyeon, who escaped from Dongcheol, is dramatically reunited with her husband, Kitae."
-}
+},
+{
+       "title" : "Young Boss",
+       "status" : "အပိုင်း (၁,၂)",
+       "cover" : "https://1.bp.blogspot.com/-0c3Ogkhn2Bo/YOSrh2a6r6I/AAAAAAAAYRc/PHcDJqXt-Pg4jQOdRumsxOwKWlJ62YsPQCLcBGAsYHQ/s0/Young-Boss-Free-193x278.jpg",
+       "image" : "https://1.bp.blogspot.com/-vJ3W64yGllc/YOSriMdoDaI/AAAAAAAAYRk/ehTI_6pXDzQDhCydBMvYXQfe2kAwJxPewCLcBGAsYHQ/s0/portafinal-5.jpg",
+       "link" : "https://raw.githubusercontent.com/Ggwp57/00880t/main/young_boss/",
+       "vol" : ""
+       },
+       {
+       "title" : "Fitness",
+       "status" : "အပိုင်း(၁,၂)",
+       "cover" : "https://1.bp.blogspot.com/-4kYhu_f1dvg/YOSriHwIRRI/AAAAAAAAYRg/Tl5EHE2QF5UFpnWnKZ87lwRCQA66vKjJwCLcBGAsYHQ/s0/Fitness-193x278.jpg",
+       "image" : "https://1.bp.blogspot.com/--mqtQA479xs/YOSrpF3H6VI/AAAAAAAAYRo/vrn0o6wh_OwZxnVAaJAR_ZjOOhcDu6nkwCLcBGAsYHQ/s0/Screenshot_2021-07-07%2Bf726794b009bec508f7540fd1d99f284c886cbd8_242625_792_1401%2Bjpg%2B%2528JPEG%2BImage%252C%2B600%2B%25C3%2597%2B1061%2Bpixels%2529%2B%25E2%2580%2594%2BScaled%255B...%255D.png",
+       "link" : "https://raw.githubusercontent.com/Ggwp57/00880t/main/fitness/",
+       "vol" : ""
+       }
 ],
   
  "slider" : [
@@ -3251,6 +3266,24 @@ MC - 23 နှစ်
 "cover" : "https://1.bp.blogspot.com/-VfBUuVQaF-w/YM4S6UsMBJI/AAAAAAAATpw/ccmtCmgvedsgCtndLzz_g6aU9KgtghgBACLcBGAsYHQ/s0/Cartoonists-small.png",
 "image" : "https://1.bp.blogspot.com/-XjAffDW3SZw/YM4S5GxMhVI/AAAAAAAATps/EUIFqezbuSA3T9RpUKCVkuPbHiyk-1BPwCLcBGAsYHQ/s0/Screenshot_2021-06-19%2BCartoonists%2BNSFW%2Bvol%2B1%2Bch%2B23%2B-%2BNovel%2BCool%2B-%2BBest%2Bonline%2Blight%2Bnovel%2Breading%2Bwebsite.png",
 "link" : "https://raw.githubusercontent.com/Ggwp57/00880t/main/cartoonist_nsfw/",
+"tag" : "",
+"vol" : ""
+},
+{
+"title" : "Young Boss",
+"status" : "Daily",
+"cover" : "https://1.bp.blogspot.com/-0c3Ogkhn2Bo/YOSrh2a6r6I/AAAAAAAAYRc/PHcDJqXt-Pg4jQOdRumsxOwKWlJ62YsPQCLcBGAsYHQ/s0/Young-Boss-Free-193x278.jpg",
+"image" : "https://1.bp.blogspot.com/-vJ3W64yGllc/YOSriMdoDaI/AAAAAAAAYRk/ehTI_6pXDzQDhCydBMvYXQfe2kAwJxPewCLcBGAsYHQ/s0/portafinal-5.jpg",
+"link" : "https://raw.githubusercontent.com/Ggwp57/00880t/main/young_boss/",
+"tag" : "",
+"vol" : ""
+},
+{
+"title" : "Fitness",
+"status" : "Daily",
+"cover" : "https://1.bp.blogspot.com/-4kYhu_f1dvg/YOSriHwIRRI/AAAAAAAAYRg/Tl5EHE2QF5UFpnWnKZ87lwRCQA66vKjJwCLcBGAsYHQ/s0/Fitness-193x278.jpg",
+"image" : "https://1.bp.blogspot.com/--mqtQA479xs/YOSrpF3H6VI/AAAAAAAAYRo/vrn0o6wh_OwZxnVAaJAR_ZjOOhcDu6nkwCLcBGAsYHQ/s0/Screenshot_2021-07-07%2Bf726794b009bec508f7540fd1d99f284c886cbd8_242625_792_1401%2Bjpg%2B%2528JPEG%2BImage%252C%2B600%2B%25C3%2597%2B1061%2Bpixels%2529%2B%25E2%2580%2594%2BScaled%255B...%255D.png",
+"link" : "https://raw.githubusercontent.com/Ggwp57/00880t/main/fitness/",
 "tag" : "",
 "vol" : ""
 }
